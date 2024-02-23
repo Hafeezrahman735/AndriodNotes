@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Andriod Notes</string>
+    <string name="about">About</string>
+    <string name="add_note">Add Note</string>
+    <string name="andriod_notes">Andriod Notes</string>
+    <string name="textview">TextView</string>
+    <string name="version_1_0">Version 1.0</string>
+    <string name="note_message">Note Message</string>
+    <string name="note_title">Note Title</string>
+    <string name="edit_save">Edit Save</string>
+</resources>
